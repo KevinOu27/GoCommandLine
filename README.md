@@ -11,7 +11,7 @@ Example:
 ## Usage
 This will efficiently parse CSV files and each record from the CSV file will convert into a single JSON object outputting as one line in a .jsonl file. 
 
-##Build
+## Build
 Created a new Go file in Terminal using "touch csvtojsonl.go"
 Write code found in the csvtojsonl.go file
 Build the application using "go build csvtojsonl.go"
